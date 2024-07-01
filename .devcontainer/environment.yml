@@ -1,1 +1,8 @@
 
+name: hello_ai
+channels:
+ - defaults
+dependencies:
+- python=python 3
+- openai
+- python-dotenv
